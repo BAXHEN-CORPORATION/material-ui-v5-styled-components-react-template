@@ -24,7 +24,8 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 Para instalar o Material UI v5 Styled Components Engine, siga estas etapas:
 
 ```
-git clone https://github.com/BAXHEN-CORPORATION/material-ui-v5-react-template.git
+git clone https://github.com/BAXHEN-CORPORATION/material-ui-v5-styled-components-react-template
+.git
 
 cd ./material-ui-v5-styled-components-react-template
 
